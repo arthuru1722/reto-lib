@@ -1,7 +1,7 @@
 // Dados dos questionários
 const quizzes = {
     peter_pan_quiz: {
-        livroId: 1,
+        livroId: 2,
         perguntas: [
             {
                 id: 1,

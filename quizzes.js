@@ -413,7 +413,7 @@ const quizzes = {
         ]
     },
     alice_pais_maravilhas_quiz: {
-        livroId: 3,
+        livroId: 2,
         perguntas: [
             {
                 id: 1,

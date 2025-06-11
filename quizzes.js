@@ -856,5 +856,1092 @@ const quizzes = {
                 respostaCorreta: 0
             }
         ]
+    },
+    menino_entregava_leite_quiz: {
+        livroId: 3,
+        perguntas: [
+            {
+                id: 1,
+                pergunta: "Qual é o nome do protagonista do livro?",
+                opcoes: [
+                    "Miguel",
+                    "Pedro",
+                    "Davi",
+                    "Lucas"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 2,
+                pergunta: "Por que Davi precisa entregar leite?",
+                opcoes: [
+                    "Para comprar um presente",
+                    "Para ajudar a família financeiramente",
+                    "Como castigo escolar",
+                    "Para treinar para uma maratona"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 3,
+                pergunta: "Qual é o principal meio de transporte que Davi usa nas entregas?",
+                opcoes: [
+                    "Bicicleta",
+                    "Carrinho de mão",
+                    "Caminhão",
+                    "Cavalo"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 4,
+                pergunta: "Quem é a pessoa mais idosa que recebe as entregas de leite?",
+                opcoes: [
+                    "Dona Matilde",
+                    "Seu Joaquim",
+                    "Vó Carmem",
+                    "Tio Chico"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 5,
+                pergunta: "Qual evento climático dificulta as entregas no capítulo 4?",
+                opcoes: [
+                    "Nevasca",
+                    "Tempestade de areia",
+                    "Chuva torrencial",
+                    "Onda de calor"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 6,
+                pergunta: "O que Davi encontra misteriosamente em uma das garrafas de leite?",
+                opcoes: [
+                    "Um mapa antigo",
+                    "Uma mensagem em código",
+                    "Um anel de prata",
+                    "Uma moeda rara"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 7,
+                pergunta: "Qual é o nome do cachorro que acompanha Davi em parte das entregas?",
+                opcoes: [
+                    "Bolinha",
+                    "Trovão",
+                    "Nero",
+                    "Sombra"
+                ],
+                respostaCorreta: 3
+            },
+            {
+                id: 8,
+                pergunta: "Qual personagem se torna um mentor para Davi?",
+                opcoes: [
+                    "O padeiro",
+                    "A professora",
+                    "O farmacêutico",
+                    "O carteiro"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 9,
+                pergunta: "O que acontece com o leite quando Davi se distrai conversando?",
+                opcoes: [
+                    "Azeda",
+                    "Congela",
+                    "Derrama",
+                    "É roubado"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 10,
+                pergunta: "Qual é o maior sonho de Davi?",
+                opcoes: [
+                    "Ser veterinário",
+                    "Comprar uma bicicleta nova",
+                    "Viajar para o litoral",
+                    "Estudar astronomia"
+                ],
+                respostaCorreta: 3
+            },
+            {
+                id: 11,
+                pergunta: "Como Davi ajuda Dona Matilde além de entregar leite?",
+                opcoes: [
+                    "Conserta seu telhado",
+                    "Lê cartas para ela",
+                    "Cuida de seu jardim",
+                    "Ensina-a a costurar"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 12,
+                pergunta: "Qual lição principal Davi aprende com seu trabalho?",
+                opcoes: [
+                    "O valor da honestidade",
+                    "A importância da perseverança",
+                    "O poder da amizade",
+                    "A necessidade de estudar"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 13,
+                pergunta: "O que o farmacêutico oferece a Davi como recompensa por sua ajuda?",
+                opcoes: [
+                    "Um livro de astronomia",
+                    "Uma bicicleta nova",
+                    "Dinheiro extra",
+                    "Telescópio emprestado"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 14,
+                pergunta: "Qual desafio Davi enfrenta no capítulo 10?",
+                opcoes: [
+                    "Seu cachorro desaparece",
+                    "Sua bicicleta quebra",
+                    "Um cliente o acusa de roubo",
+                    "Fica doente antes das entregas"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 15,
+                pergunta: "Como a comunidade reage quando Davi precisa de ajuda?",
+                opcoes: [
+                    "Ficam indiferentes",
+                    "O criticam por falhas anteriores",
+                    "Se unem para apoiá-lo",
+                    "Contratam outro entregador"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 16,
+                pergunta: "Qual presente Davi recebe no final do livro?",
+                opcoes: [
+                    "Telescópio usado",
+                    "Coleira nova para seu cachorro",
+                    "Livro de astronomia autografado",
+                    "Uniforme escolar"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 17,
+                pergunta: "Qual personagem representa a conexão de Davi com os estudos?",
+                opcoes: [
+                    "Dona Matilde",
+                    "O farmacêutico",
+                    "Professora Sofia",
+                    "Seu Joaquim"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 18,
+                pergunta: "O que Davi observa todas as noites antes de dormir?",
+                opcoes: [
+                    "Trens passando",
+                    "Estrelas e constelações",
+                    "Lampiões da cidade",
+                    "Gatos no telhado"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 19,
+                pergunta: "Como Davi descreve o cheiro da madrugada?",
+                opcoes: [
+                    "Café fresco e pão quente",
+                    "Orvalho e terra molhada",
+                    "Leite fresco e mato cortado",
+                    "Flores silvestres e carvão"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 20,
+                pergunta: "Qual evento astronômico importante acontece no clímax da história?",
+                opcoes: [
+                    "Eclipse lunar",
+                    "Chuva de meteoros",
+                    "Alinhamento planetário",
+                    "Superlua"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 21,
+                pergunta: "O que o pai de Davi faz profissionalmente?",
+                opcoes: [
+                    "Fazendeiro",
+                    "Ferroviário",
+                    "Mecânico",
+                    "Padeiro"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 22,
+                pergunta: "Qual é o segredo que Dona Matilde compartilha com Davi?",
+                opcoes: [
+                    "Histórias da guerra",
+                    "Mapa de tesouro familiar",
+                    "Segredos das estrelas",
+                    "Receita de queijo especial"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 23,
+                pergunta: "Como Davi supera seu medo do escuro?",
+                opcoes: [
+                    "Usando uma lanterna",
+                    "Cantando durante o caminho",
+                    "Conhecendo as constelações",
+                    "Levando seu cachorro"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 24,
+                pergunta: "Qual destes NÃO é um cliente de Davi?",
+                opcoes: [
+                    "Padaria do Sr. Alfredo",
+                    "Pensão da Sra. Beatriz",
+                    "Escola Municipal",
+                    "Hotel Central"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 25,
+                pergunta: "Qual lição final o livro transmite?",
+                opcoes: [
+                    "Sonhos exigem trabalho e persistência",
+                    "Dinheiro traz felicidade",
+                    "Estudar é inútil para trabalhadores",
+                    "Grandes cidades oferecem melhores oportunidades"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 26,
+                pergunta: "O que simboliza a bicicleta de Davi?",
+                opcoes: [
+                    "Liberdade e responsabilidade",
+                    "Pobreza e limitações",
+                    "Tecnologia moderna",
+                    "Infância perdida"
+                ],
+                respostaCorreta: 0
+            }
+        ]
+    },
+    laranja_colorida_quiz: {
+        livroId: 4,
+        perguntas: [
+            {
+                id: 1,
+                pergunta: "Qual é o nome da protagonista do livro?",
+                opcoes: [
+                    "Clara",
+                    "Lara",
+                    "Ana",
+                    "Bia"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 2,
+                pergunta: "O que torna a laranja especial?",
+                opcoes: [
+                    "Tem gosto de chocolate",
+                    "Muda de cor com o humor",
+                    "Brilha no escuro",
+                    "Nunca apodrece"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 3,
+                pergunta: "Onde Lara encontra a laranja colorida?",
+                opcoes: [
+                    "No sótão da avó",
+                    "Em um pomar abandonado",
+                    "Em uma feira misteriosa",
+                    "Debaixo de sua cama"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 4,
+                pergunta: "Qual é o primeiro poder que Lara descobre na laranja?",
+                opcoes: [
+                    "Fazer objetos flutuarem",
+                    "Ler pensamentos",
+                    "Ver memórias passadas",
+                    "Entender animais"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 5,
+                pergunta: "Quem é o antagonista principal?",
+                opcoes: [
+                    "Sr. Valente - o colecionador",
+                    "Dona Margarida - a professora",
+                    "Tio Heitor - o cientista",
+                    "Vó Carmem - a avó"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 6,
+                pergunta: "Qual lição a laranja ensina quando fica azul?",
+                opcoes: [
+                    "Paciência",
+                    "Coragem",
+                    "Honestidade",
+                    "Empatia"
+                ],
+                respostaCorreta: 3
+            },
+            {
+                id: 7,
+                pergunta: "Como Lara esconde a laranja na escola?",
+                opcoes: [
+                    "Dentro da mochila térmica",
+                    "Em uma caixa de lápis",
+                    "No bolso do casaco",
+                    "Com seu amigo Tomás"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 8,
+                pergunta: "Qual animal ajuda Lara a proteger a laranja?",
+                opcoes: [
+                    "Um corvo falante",
+                    "Um gato siamês",
+                    "Um cachorro vira-lata",
+                    "Um esquilo vermelho"
+                ],
+                respostaCorreta: 3
+            },
+            {
+                id: 9,
+                pergunta: "O que acontece quando a laranja fica roxa?",
+                opcoes: [
+                    "Cura doenças",
+                    "Previne acidentes",
+                    "Revela verdades",
+                    "Concede desejos"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 10,
+                pergunta: "Qual é o segredo da vó de Lara sobre a laranja?",
+                opcoes: [
+                    "Ela plantou a semente",
+                    "Já teve uma igual na juventude",
+                    "Conhece o criador",
+                    "É feita de magia ancestral"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 11,
+                pergunta: "Como a laranja ajuda a resolver o conflito na escola?",
+                opcoes: [
+                    "Expondo um mentiroso",
+                    "Curando uma doença",
+                    "Encontrando objetos perdidos",
+                    "Unindo amigos rivais"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 12,
+                pergunta: "Qual é a fraqueza da laranja mágica?",
+                opcoes: [
+                    "Água salgada",
+                    "Luz solar direta",
+                    "Sentimentos negativos",
+                    "Metal frio"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 13,
+                pergunta: "O que Lara precisa fazer para recarregar os poderes da laranja?",
+                opcoes: [
+                    "Cantar para ela",
+                    "Deixá-la ao luar",
+                    "Compartilhar histórias felizes",
+                    "Regá-la com lágrimas"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 14,
+                pergunta: "Qual personagem trai a confiança de Lara?",
+                opcoes: [
+                    "Seu melhor amigo",
+                    "Sua irmã mais velha",
+                    "A diretora da escola",
+                    "A vizinha curiosa"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 15,
+                pergunta: "Onde fica o pomar secreto das laranjas mágicas?",
+                opcoes: [
+                    "No quintal abandonado",
+                    "Em uma dimensão paralela",
+                    "No topo da montanha",
+                    "No coração da floresta"
+                ],
+                respostaCorreta: 3
+            },
+            {
+                id: 16,
+                pergunta: "Qual é a cor mais rara que a laranja mostra?",
+                opcoes: [
+                    "Dourado",
+                    "Prata",
+                    "Arco-íris",
+                    "Branco brilhante"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 17,
+                pergunta: "Como Lara derrota o Sr. Valente?",
+                opcoes: [
+                    "Usando o poder dourado",
+                    "Com ajuda da comunidade",
+                    "Revelando seu segredo",
+                    "Destruindo a laranja"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 18,
+                pergunta: "O que a laranja se torna no final?",
+                opcoes: [
+                    "Uma árvore frondosa",
+                    "Sementes para compartilhar",
+                    "Um amuleto permanente",
+                    "Uma lenda urbana"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 19,
+                pergunta: "Qual profissão Lara deseja seguir por influência da laranja?",
+                opcoes: [
+                    "Bióloga",
+                    "Psicóloga",
+                    "Artista",
+                    "Professora"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 20,
+                pergunta: "Qual música está associada à laranja na história?",
+                opcoes: [
+                    "Canção de ninar antiga",
+                    "Sinfonia das cores",
+                    "Rap da fruta mágica",
+                    "Hino da natureza"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 21,
+                pergunta: "Qual ensinamento final a laranja deixa para Lara?",
+                opcoes: [
+                    "A magia está nas pessoas",
+                    "Objetos mágicos são perigosos",
+                    "Segredos devem ser guardados",
+                    "Crianças não devem ter poderes"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 22,
+                pergunta: "Quantas mudanças de cor a laranja faz no livro?",
+                opcoes: [
+                    "5 cores diferentes",
+                    "7 cores diferentes",
+                    "9 cores diferentes",
+                    "12 cores diferentes"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 23,
+                pergunta: "Qual elemento NÃO afeta a laranja mágica?",
+                opcoes: [
+                    "Lua cheia",
+                    "Tempestades emocionais",
+                    "Mentiras intencionais",
+                    "Tecnologia eletrônica"
+                ],
+                respostaCorreta: 3
+            }
+        ]
+    },
+    dormir_fora_casa_quiz: {
+        livroId: 5,
+        perguntas: [
+            {
+                id: 1,
+                pergunta: "Qual é o nome do protagonista do livro?",
+                opcoes: [
+                    "Daniel",
+                    "Miguel",
+                    "Rafael",
+                    "Gustavo"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 2,
+                pergunta: "Pela primeira vez, Miguel vai dormir na casa de:",
+                opcoes: [
+                    "Seu avô",
+                    "Seu primo",
+                    "Seu melhor amigo",
+                    "Sua tia"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 3,
+                pergunta: "Qual item Miguel leva para ajudar com a saudade de casa?",
+                opcoes: [
+                    "Seu travesseiro favorito",
+                    "Fotos da família",
+                    "Bicho de pelúcia",
+                    "Cobertor especial"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 4,
+                pergunta: "O que os meninos planejam fazer durante a noite?",
+                opcoes: [
+                    "Acampamento no quintal",
+                    "Maratona de videogame",
+                    "Noite de filmes de terror",
+                    "Caça ao tesouro noturna"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 5,
+                pergunta: "Qual é o maior medo de Miguel durante a noite?",
+                opcoes: [
+                    "Barulhos estranhos na casa",
+                    "Pesadelos",
+                    "Saudade dos pais",
+                    "Escuridão do quarto"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 6,
+                pergunta: "Quem ajuda Miguel quando ele sente saudades?",
+                opcoes: [
+                    "A mãe do amigo",
+                    "Seu cachorro de estimação",
+                    "O pai do amigo",
+                    "O irmão mais novo do amigo"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 7,
+                pergunta: "O que os meninos comem como lanche da noite?",
+                opcoes: [
+                    "Pipoca com chocolate",
+                    "Sanduíches gigantes",
+                    "Sorvete de massa",
+                    "Pizza fria"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 8,
+                pergunta: "Qual jogo eles jogam dentro da barraca?",
+                opcoes: [
+                    "Jogo de adivinhação",
+                    "Batalha de travesseiros",
+                    "Cartas com lanterna",
+                    "Histórias de assombração"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 9,
+                pergunta: "Como Miguel supera seu medo noturno?",
+                opcoes: [
+                    "Ligando para os pais",
+                    "Descobrindo a fonte dos barulhos",
+                    "Tomando um chá calmante",
+                    "Indo dormir dentro de casa"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 10,
+                pergunta: "Qual animal faz barulho durante a noite?",
+                opcoes: [
+                    "Coruja",
+                    "Sapo",
+                    "Gato",
+                    "Gambá"
+                ],
+                respostaCorreta: 3
+            },
+            {
+                id: 11,
+                pergunta: "O que Miguel esquece de trazer?",
+                opcoes: [
+                    "Pijama",
+                    "Escova de dentes",
+                    "Carregador de celular",
+                    "Medicamento para alergia"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 12,
+                pergunta: "Como a mãe do amigo ajuda Miguel?",
+                opcoes: [
+                    "Contando uma história",
+                    "Fazendo chocolate quente",
+                    "Ligando para sua mãe",
+                    "Cantando uma canção de ninar"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 13,
+                pergunta: "Qual lição Miguel aprende com a experiência?",
+                opcoes: [
+                    "Casas diferentes têm regras diferentes",
+                    "Amigos verdadeiros apoiam nos medos",
+                    "Saudade de casa é natural",
+                    "Todas as anteriores"
+                ],
+                respostaCorreta: 3
+            },
+            {
+                id: 14,
+                pergunta: "O que acontece com a barraca durante a noite?",
+                opcoes: [
+                    "Cai um vento forte",
+                    "Entra água da chuva",
+                    "Um animal rasga o tecido",
+                    "Desmonta parcialmente"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 15,
+                pergunta: "Como Miguel se sente no final da experiência?",
+                opcoes: [
+                    "Aliviado por ir para casa",
+                    "Orgulhoso de si mesmo",
+                    "Arrependido por ter ido",
+                    "Cansado mas feliz"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 16,
+                pergunta: "Qual tradição familiar do amigo Miguel descobre?",
+                opcoes: [
+                    "Café da manhã especial aos sábados",
+                    "Histórias antes de dormir",
+                    "Músicas típicas da família",
+                    "Oração noturna coletiva"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 17,
+                pergunta: "O que os meninos observam antes de dormir?",
+                opcoes: [
+                    "Estrelas cadentes",
+                    "Vaga-lumes no jardim",
+                    "Aviões passando",
+                    "Lua cheia"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 18,
+                pergunta: "Qual personagem tem medo de insetos?",
+                opcoes: [
+                    "Miguel",
+                    "Pedro (o amigo)",
+                    "O irmão de Pedro",
+                    "A mãe de Pedro"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 19,
+                pergunta: "O que Miguel promete fazer quando voltar para casa?",
+                opcoes: [
+                    "Convidar Pedro para dormir lá",
+                    "Escrever um diário da aventura",
+                    "Plantar uma árvore de lembrança",
+                    "Aprender a montar barracas"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 20,
+                pergunta: "Qual objeto simboliza a conquista de Miguel?",
+                opcoes: [
+                    "Um adesivo de \ncorajoso\n",
+                    "A lanterna usada na noite",
+                    "Uma pedra do jardim",
+                    "O fecho da barraca"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 21,
+                pergunta: "O que os pais de Miguel fazem durante sua ausência?",
+                opcoes: [
+                    "Vão ao cinema",
+                    "Jantam fora",
+                    "Assistem seu filme favorito",
+                    "Reorganizam seu quarto"
+                ],
+                respostaCorreta: 1
+            }
+        ]
+    },
+    cobras_lagartos_quiz: {
+        livroId: 6,
+        perguntas: [
+            {
+                id: 1,
+                pergunta: "Qual é o nome do lagarto protagonista?",
+                opcoes: [
+                    "Lagarto",
+                    "Zig",
+                    "Léo",
+                    "Escamoso"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 2,
+                pergunta: "Onde se passa a história principal?",
+                opcoes: [
+                    "Deserto do Saara",
+                    "Floresta Amazônica",
+                    "Jardim da casa do Sr. Oliveira",
+                    "Zoológico municipal"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 3,
+                pergunta: "Qual o maior medo da cobra Coralina?",
+                opcoes: [
+                    "Água",
+                    "Aves de rapina",
+                    "Fogo",
+                    "Humanos"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 4,
+                pergunta: "Como Léo e Coralina se conhecem?",
+                opcoes: [
+                    "Numa toca subterrânea",
+                    "Durante uma tempestade",
+                    "Num concurso de mudança de pele",
+                    "Durante o ataque de um gato"
+                ],
+                respostaCorreta: 3
+            },
+            {
+                id: 5,
+                pergunta: "Qual é a habilidade especial do lagarto Léo?",
+                opcoes: [
+                    "Nadar rapidamente",
+                    "Mudar de cor parcialmente",
+                    "Envenenar presas",
+                    "Voar curtas distâncias"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 6,
+                pergunta: "Por que Coralina precisa da ajuda de Léo?",
+                opcoes: [
+                    "Perdeu sua pele",
+                    "Está perdida no jardim",
+                    "Feriu-se em uma armadilha",
+                    "Quer encontrar seu filhote"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 7,
+                pergunta: "O que ameaça o habitat dos personagens?",
+                opcoes: [
+                    "Incêndio florestal",
+                    "Construção de um prédio",
+                    "Invasão de formigas",
+                    "Enchente"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 8,
+                pergunta: "Quem é o vilão da história?",
+                opcoes: [
+                    "Gato Siamese",
+                    "Falcão faminto",
+                    "Sr. Oliveira (dono da casa)",
+                    "Sapo venenoso"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 9,
+                pergunta: "Como os amigos escapam do gato?",
+                opcoes: [
+                    "Distraindo-o com insetos",
+                    "Usando túneis subterrâneos",
+                    "Pulando no lago",
+                    "Camuflagem coletiva"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 10,
+                pergunta: "Qual presente Coralina dá a Léo?",
+                opcoes: [
+                    "Pedaço de sua pele antiga",
+                    "Presa de cobra",
+                    "Fruta rara",
+                    "Pena de pássaro"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 11,
+                pergunta: "O que Léo ensina para Coralina?",
+                opcoes: [
+                    "Caçar formigas",
+                    "Subir em árvores",
+                    "Técnicas de camuflagem",
+                    "Nadar"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 12,
+                pergunta: "Qual personagem tem medo de água?",
+                opcoes: [
+                    "Léo",
+                    "Coralina",
+                    "Gato",
+                    "Sapo"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 13,
+                pergunta: "Como salvam o jardim da construção?",
+                opcoes: [
+                    "Reunindo outros animais",
+                    "Assustando os operários",
+                    "Procurando um tesouro escondido",
+                    "Encontrando plantas raras"
+                ],
+                respostaCorreta: 3
+            },
+            {
+                id: 14,
+                pergunta: "O que representa a amizade entre eles?",
+                opcoes: [
+                    "Folha seca dourada",
+                    "Pedaço de casca de árvore",
+                    "Presa de cobra quebrada",
+                    "Pena azul"
+                ],
+                respostaCorreta: 3
+            },
+            {
+                id: 15,
+                pergunta: "Qual é a refeição favorita de Coralina?",
+                opcoes: [
+                    "Grilos",
+                    "Sapos pequenos",
+                    "Frutas maduras",
+                    "Ovos de pássaro"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 16,
+                pergunta: "Onde fazem seu esconderijo secreto?",
+                opcoes: [
+                    "Toco de árvore velha",
+                    "Folhas de bananeira",
+                    "Caixa de ferramentas",
+                    "Galpão abandonado"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 17,
+                pergunta: "Qual lição aprendem com o sapo?",
+                opcoes: [
+                    "Importância da paciência",
+                    "Valor da adaptação",
+                    "Força da união",
+                    "Beleza das diferenças"
+                ],
+                respostaCorreta: 3
+            },
+            {
+                id: 18,
+                pergunta: "Como Coralina salva Léo do falcão?",
+                opcoes: [
+                    "Dando um bote falso",
+                    "Fazendo um ninho falso",
+                    "Imitando um guizo",
+                    "Liberando odor forte"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 19,
+                pergunta: "Qual evento climático testa sua amizade?",
+                opcoes: [
+                    "Seca prolongada",
+                    "Tempestade de granizo",
+                    "Nevoeiro denso",
+                    "Vendaval intenso"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 20,
+                pergunta: "O que descobrem sobre o Sr. Oliveira?",
+                opcoes: [
+                    "É biólogo",
+                    "Quer proteger o jardim",
+                    "Tem medo de cobras",
+                    "Coleciona répteis"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 21,
+                pergunta: "Como o livro termina?",
+                opcoes: [
+                    "Com a mudança para a floresta",
+                    "Com o jardim virando reserva",
+                    "Com o nascimento de filhotes",
+                    "Com a separação dos amigos"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 22,
+                pergunta: "Qual destes NÃO é um amigo dos protagonistas?",
+                opcoes: [
+                    "Tatu-bola",
+                    "Libélula",
+                    "Coruja",
+                    "Joaninha"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 23,
+                pergunta: "O que Coralina mais admira em Léo?",
+                opcoes: [
+                    "Sua coragem",
+                    "Sua velocidade",
+                    "Seu humor",
+                    "Sua lealdade"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 24,
+                pergunta: "Qual é o ponto fraco do gato vilão?",
+                opcoes: [
+                    "Medo de água",
+                    "Alergia a flores",
+                    "Preguiça diurna",
+                    "Odeia barulhos altos"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 25,
+                pergunta: "O que simboliza a pena azul?",
+                opcoes: [
+                    "Proteção",
+                    "Amizade",
+                    "Coragem",
+                    "Liberdade"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 26,
+                pergunta: "Qual lição final o livro ensina?",
+                opcoes: [
+                    "Diferenças fortalecem amizades",
+                    "Natureza deve ser dominada",
+                    "Répteis são perigosos",
+                    "Humanos são inimigos"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 27,
+                pergunta: "O que os personagens fazem nas noites de lua cheia?",
+                opcoes: [
+                    "Caçam juntos",
+                    "Observam as estrelas",
+                    "Festejam no lago",
+                    "Migram para áreas secas"
+                ],
+                respostaCorreta: 1
+            }
+        ]
     }
 };

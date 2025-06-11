@@ -411,5 +411,450 @@ const quizzes = {
                 respostaCorreta: 1
             }
         ]
+    },
+    alice_pais_maravilhas_quiz: {
+        livroId: 3,
+        perguntas: [
+            {
+                id: 1,
+                pergunta: "Qual animal Alice segue para entrar no País das Maravilhas?",
+                opcoes: [
+                    "Gato de Cheshire",
+                    "Coelho Branco",
+                    "Lagarta Azul",
+                    "Lebre de Março"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 2,
+                pergunta: "O que está escrito no frasco que Alice bebe?",
+                opcoes: [
+                    "Coma-me",
+                    "Beba-me",
+                    "Experimente-me",
+                    "Prove-me"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 3,
+                pergunta: "O que faz Alice crescer após comer?",
+                opcoes: [
+                    "Cogumelo",
+                    "Bolo",
+                    "Geleia",
+                    "Pão"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 4,
+                pergunta: "Qual personagem desaparece deixando apenas seu sorriso?",
+                opcoes: [
+                    "Coelho Branco",
+                    "Chapeleiro Maluco",
+                    "Gato de Cheshire",
+                    "Rainha de Copas"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 5,
+                pergunta: "Onde é realizado o Chá Maluco?",
+                opcoes: [
+                    "Castelo da Rainha",
+                    "Casa da Lebre",
+                    "Sob a árvore",
+                    "Jardim das Flores"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 6,
+                pergunta: "Quem são os participantes do Chá Maluco?",
+                opcoes: [
+                    "Alice, Coelho e Lagarta",
+                    "Chapeleiro, Lebre e Arganaz",
+                    "Duquesa, Gato e Rei",
+                    "Tweedledee, Tweedledum e Rainha"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 7,
+                pergunta: "Qual a frase mais famosa da Rainha de Copas?",
+                opcoes: [
+                    "Mais chá!",
+                    "Cortem-lhe a cabeça!",
+                    "Através do espelho",
+                    "Curioser e curioser"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 8,
+                pergunta: "Qual jogo a Rainha de Copas adora jogar?",
+                opcoes: [
+                    "Xadrez vivo",
+                    "Póquer de flores",
+                    "Croqué com flamingos",
+                    "Boliche com ouriços"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 9,
+                pergunta: "O que Alice encontra sentado num cogumelo?",
+                opcoes: [
+                    "Coelho Branco",
+                    "Gato de Cheshire",
+                    "Lagarta Azul",
+                    "Chapeleiro Maluco"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 10,
+                pergunta: "Qual personagem pergunta 'Quem é você?' para Alice?",
+                opcoes: [
+                    "Rainha de Copas",
+                    "Lagarta Azul",
+                    "Duquesa",
+                    "Lebre de Março"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 11,
+                pergunta: "O que o Gato de Cheshire diz sobre todos no País das Maravilhas?",
+                opcoes: [
+                    "São amigáveis",
+                    "São perigosos",
+                    "São loucos",
+                    "São invisíveis"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 12,
+                pergunta: "Qual é o crime do Valete de Copas?",
+                opcoes: [
+                    "Roubar os bolos da Rainha",
+                    "Roubar as tortas da Rainha",
+                    "Beijar a Rainha",
+                    "Faltar ao chá"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 13,
+                pergunta: "Quem canta 'Twinkle, Twinkle, Little Bat'?",
+                opcoes: [
+                    "Chapeleiro Maluco",
+                    "Lebre de Março",
+                    "Gato de Cheshire",
+                    "Lagarta Azul"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 14,
+                pergunta: "O que o Coelho Branco confunde Alice com?",
+                opcoes: [
+                    "Sua empregada",
+                    "Sua irmã",
+                    "A Rainha",
+                    "A Duquesa"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 15,
+                pergunta: "Qual personagem fala em enigmas e charadas?",
+                opcoes: [
+                    "Lagarta Azul",
+                    "Chapeleiro Maluco",
+                    "Gato de Cheshire",
+                    "Rainha de Copas"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 16,
+                pergunta: "O que acontece quando Alice come de um lado do cogumelo?",
+                opcoes: [
+                    "Cresce",
+                    "Diminui",
+                    "Flutua",
+                    "Adormece"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 17,
+                pergunta: "Quem guarda a pequena porta no início da história?",
+                opcoes: [
+                    "Gato de Cheshire",
+                    "Lagarta Azul",
+                    "Coelho Branco",
+                    "Duquesa"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 18,
+                pergunta: "Qual destes NÃO é um personagem do livro?",
+                opcoes: [
+                    "Arganaz",
+                    "Griffin",
+                    "Dodo",
+                    "Pássaro Dodô"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 19,
+                pergunta: "Onde Alice encontra o Gato de Cheshire pela primeira vez?",
+                opcoes: [
+                    "Casa da Duquesa",
+                    "Jardim da Rainha",
+                    "Floresta",
+                    "Praia das Lágrimas"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 20,
+                pergunta: "Por que Alice começa a chorar no capítulo 2?",
+                opcoes: [
+                    "Sente saudades de casa",
+                    "Não consegue abrir uma porta",
+                    "Cresce demais e fica presa",
+                    "Perde seu gatinho"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 21,
+                pergunta: "Quem conta a história da Morsa e do Carpinteiro?",
+                opcoes: [
+                    "Tweedledee",
+                    "Chapeleiro Maluco",
+                    "Gêmeos Tweedle",
+                    "Carneiro"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 22,
+                pergunta: "Qual personagem usa luvas e um leque?",
+                opcoes: [
+                    "Coelho Branco",
+                    "Rainha de Copas",
+                    "Duquesa",
+                    "Lebre de Março"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 23,
+                pergunta: "O que a Lagarta Azul está fazendo quando Alice a encontra?",
+                opcoes: [
+                    "Fumando narguilé",
+                    "Tecendo seda",
+                    "Comendo cogumelo",
+                    "Dormindo"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 24,
+                pergunta: "Qual é o verdadeiro nome da Alice do autor?",
+                opcoes: [
+                    "Alice Lindell",
+                    "Alice Hargreaves",
+                    "Alice Liddell",
+                    "Alice Carroll"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 25,
+                pergunta: "O que significa 'Caucus Race' no livro?",
+                opcoes: [
+                    "Corrida sem regras",
+                    "Corrida política",
+                    "Corrida circular",
+                    "Corrida aquática"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 26,
+                pergunta: "Qual personagem fala 'Eu estou atrasado!'?",
+                opcoes: [
+                    "Gato de Cheshire",
+                    "Chapeleiro Maluco",
+                    "Coelho Branco",
+                    "Rei de Copas"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 27,
+                pergunta: "O que Alice descobre no final da história?",
+                opcoes: [
+                    "Estava sonhando",
+                    "Viajou no tempo",
+                    "Entrou num livro",
+                    "Foi enfeitiçada"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 28,
+                pergunta: "Qual destes é um conselho do Gato de Cheshire?",
+                opcoes: [
+                    "Sempre siga o coelho",
+                    "Se não sabe para onde ir, qualquer caminho serve",
+                    "Não acredite em espelhos",
+                    "Mantenha seu tamanho"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 29,
+                pergunta: "Quem canta 'Will you, won't you, will you, won't you, will you join the dance?'?",
+                opcoes: [
+                    "Lagarta",
+                    "Falsa Tartaruga",
+                    "Lebre de Março",
+                    "Flores"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 30,
+                pergunta: "Qual é a profissão do autor Lewis Carroll?",
+                opcoes: [
+                    "Médico",
+                    "Professor de matemática",
+                    "Pintor",
+                    "Músico"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 31,
+                pergunta: "O que o Chapeleiro pergunta constantemente à Alice?",
+                opcoes: [
+                    "Por que um corvo é como uma escrivaninha?",
+                    "Qual é o sentido da vida?",
+                    "Quem roubou as tortas?",
+                    "Onde está o Coelho?"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 32,
+                pergunta: "Qual personagem julga o Valete de Copas?",
+                opcoes: [
+                    "Rei de Copas",
+                    "Rainha de Copas",
+                    "Chapeleiro Maluco",
+                    "Alice"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 33,
+                pergunta: "O que acontece quando Alice entra na casa do Coelho?",
+                opcoes: [
+                    "Fica presa",
+                    "Cresce demais",
+                    "Encolhe demais",
+                    "Encontra o gato"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 34,
+                pergunta: "Qual destes alimentos NÃO altera o tamanho de Alice?",
+                opcoes: [
+                    "Bolo",
+                    "Cogumelo",
+                    "Bebida do frasco",
+                    "Chá"
+                ],
+                respostaCorreta: 3
+            },
+            {
+                id: 35,
+                pergunta: "Quem é o primeiro personagem que Alice encontra chorando?",
+                opcoes: [
+                    "Falsa Tartaruga",
+                    "Duquesa",
+                    "Lebre de Março",
+                    "Ela mesma"
+                ],
+                respostaCorreta: 3
+            },
+            {
+                id: 36,
+                pergunta: "O que a Rainha ordena pintar de vermelho?",
+                opcoes: [
+                    "Rosas brancas",
+                    "Portas verdes",
+                    "Cogumelos azuis",
+                    "Tartes amarelas"
+                ],
+                respostaCorreta: 0
+            },
+            {
+                id: 37,
+                pergunta: "Qual personagem tem um bebê que se transforma em porco?",
+                opcoes: [
+                    "Rainha de Copas",
+                    "Duquesa",
+                    "Irmã de Alice",
+                    "Lebre de Março"
+                ],
+                respostaCorreta: 1
+            },
+            {
+                id: 38,
+                pergunta: "Como Alice sai do País das Maravilhas?",
+                opcoes: [
+                    "Através do espelho",
+                    "Seguindo o Gato",
+                    "Acordando do sonho",
+                    "Comendo cogumelo"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 39,
+                pergunta: "Qual é o título original do livro?",
+                opcoes: [
+                    "Alice's Wonderland",
+                    "Alice in Curious Land",
+                    "Alice's Adventures in Wonderland",
+                    "Through the Looking-Glass"
+                ],
+                respostaCorreta: 2
+            },
+            {
+                id: 40,
+                pergunta: "Qual destes é um tema central do livro?",
+                opcoes: [
+                    "A lógica da loucura",
+                    "O perigo da magia",
+                    "A importância da educação",
+                    "O valor da riqueza"
+                ],
+                respostaCorreta: 0
+            }
+        ]
     }
 };

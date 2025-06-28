@@ -46,4 +46,12 @@ const hints = [
   "Lembra do 'o jogo'?",
   "Esse jogo é totalmente open-source... você não sabe o que significa? bom... não é importante",
   "Não fique esperando o momento perfeito pra falar o que sente, porque ele pode simplesmente nunca acontecer.",
+  "Não esqueça de fazer um alongamento.",
+  "Essa dica está sendo exibida só pra te distrair.",
+  "Loading... (podia ser mais rápido, né?)",
+  "A paciência é uma virtude...",
+  "Você já pensou em aprender a programar? (p.s. Não recomendo)",
+  "Você sabia que o primeiro videogame foi criado em 1958?",
+  "As batalhas diárias não se tornam mais fáceis, você se torna mais forte",
+  "Agua é um dos recursos mais escassos do universo, não desperdice",
 ];

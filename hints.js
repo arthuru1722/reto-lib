@@ -21,7 +21,7 @@ const hints = [
   "Sim, tem alguém te observando... provavelmente seu reflexo.",
   "Não clique em lugares suspeitos. Tipo aquele X vermelho.",
   "Essa é só mais uma linha de texto aleatório. E daí?",
-  "Já tentou desligar e ligar de novo? Até seu cérebro.",
+  "Já tentou desligar e ligar de novo? falo de seu cérebro.",
   "Imagina um jogo que so carrega para sempre kkkkk... Eu não faria isso.. ou faria?",
   "Aceite o caos. O caos aceita você.",
   "Enquanto carrega, pense em todas as decisões erradas que te trouxeram até aqui.",
@@ -59,7 +59,7 @@ const hints = [
   "恭喜你，你只是浪費時間翻譯",
   "01101111 01101100 01100001",
   "Amanhã é sempre depois de hoje.",
-  "Se você permanecer nessa tela por 10 minutos algo acontecerá... quer descobrir?"
+  "Se você permanecer nessa tela por 10 minutos algo acontecerá... quer descobrir?",
   "Digite 'DevModeArt()' no console do desenvolvedor (F12) para ativar todas as 'trapaças' e logs do jogo, além de pausar o tempo. Use com moderação.",
   ".ossi rel arap etros aoB",
   "Fazer um projeto desse nivel requer tempo, tenha paciencia.",

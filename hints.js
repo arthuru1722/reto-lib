@@ -52,6 +52,15 @@ const hints = [
   "A paciência é uma virtude...",
   "Você já pensou em aprender a programar? (p.s. Não recomendo)",
   "Você sabia que o primeiro videogame foi criado em 1958?",
-  "As batalhas diárias não se tornam mais fáceis, você se torna mais forte",
-  "Agua é um dos recursos mais escassos do universo, não desperdice",
+  "As batalhas diárias não se tornam mais fáceis, você se torna mais forte.",
+  "Agua é um dos recursos mais escassos do universo, não desperdice.",
+  "Não leia isso tudo, aproveite o tempo para pensar no futuro... ah, você ja leu..",
+  "Se estiver demorando mais de 15 minutos.. Tem algo muito errado com seu dispositivo.",
+  "Oiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii...Ver mais",
+  "恭喜你，你只是浪費時間翻譯",
+  "01101111 01101100 01100001",
+  "Não use drogas, não é legal.",
+  "Amanhã é sempre depois de hoje.",
+  "Se você permanecer nessa tela por 10 minutos algo acontecerá... quer descobrir?"
+ "Digite 'DevModeArt()' no console do desenvolvedor (F12) para ativar todas as 'trapaças' e logs do jogo, além de pausar o tempo. Use com moderação.",
 ];

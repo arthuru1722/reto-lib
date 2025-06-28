@@ -31,7 +31,7 @@ const hints = [
   "Você é especial! Se valorize <3",
   "O que você ta esperando?",
   "Curiosidade: antigamente o R+ recebeu o nome de 'Escrita Esperta'... Ainda bem que mudamos de ideia",
-  "Esse site é feito com Tailwind Css e java script... como isso pode ser util para você? não sei",
+  "Esse site é feito com Tailwind Css e javascript... como isso pode ser util para você? não sei",
   "As vezes algumas coisas não demonstram que são clicaveis..",
   "Se você quiser parar de ver essas dicas, tente desativar nas configurações... Vou sentir saudades :/",
   "/gamemode Creative",

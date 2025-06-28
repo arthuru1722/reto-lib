@@ -56,10 +56,8 @@ const hints = [
   "Agua é um dos recursos mais escassos do universo, não desperdice.",
   "Não leia isso tudo, aproveite o tempo para pensar no futuro... ah, você ja leu..",
   "Se estiver demorando mais de 15 minutos.. Tem algo muito errado com seu dispositivo.",
-  "Oiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii...Ver mais",
   "恭喜你，你只是浪費時間翻譯",
   "01101111 01101100 01100001",
-  "Não use drogas, não é legal.",
   "Amanhã é sempre depois de hoje.",
   "Se você permanecer nessa tela por 10 minutos algo acontecerá... quer descobrir?"
   "Digite 'DevModeArt()' no console do desenvolvedor (F12) para ativar todas as 'trapaças' e logs do jogo, além de pausar o tempo. Use com moderação.",
@@ -69,5 +67,6 @@ const hints = [
   "o dev gosta do YunLi :D",
   "Originalmente esse jogo foi um simples projeto de escola (p.s o dev nunca estudou nessa escola)",
   "Ja leu '1984'? recomendo",
-  "Dizem as lendas que o dev de R+ trabalhou por seis dias e descansou no sétimo... e no oitavo, no nono, no décimo... e segue firme nessa tradição até hoje."
+  "Dizem as lendas que o dev de R+ trabalhou por seis dias e descansou no sétimo... e no oitavo, no nono, no décimo... e segue firme nessa tradição até hoje.",
+  "Este jogo contêm salvamento automático, não se preocupe em fechar a guia acidentalmente durante uma partida... mas eu não recomendaria...",
 ];

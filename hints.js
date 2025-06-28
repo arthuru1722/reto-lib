@@ -62,5 +62,12 @@ const hints = [
   "Não use drogas, não é legal.",
   "Amanhã é sempre depois de hoje.",
   "Se você permanecer nessa tela por 10 minutos algo acontecerá... quer descobrir?"
- "Digite 'DevModeArt()' no console do desenvolvedor (F12) para ativar todas as 'trapaças' e logs do jogo, além de pausar o tempo. Use com moderação.",
+  "Digite 'DevModeArt()' no console do desenvolvedor (F12) para ativar todas as 'trapaças' e logs do jogo, além de pausar o tempo. Use com moderação.",
+  ".ossi rel arap etros aoB",
+  "Fazer um projeto desse nivel requer tempo, tenha paciencia.",
+  "Qual o pior: Feriado no domingo ou Segunda-feira?",
+  "o dev gosta do YunLi :D",
+  "Originalmente esse jogo foi um simples projeto de escola (p.s o dev nunca estudou nessa escola)",
+  "Ja leu '1984'? recomendo",
+  "Dizem as lendas que o dev de R+ trabalhou por seis dias e descansou no sétimo... e no oitavo, no nono, no décimo... e segue firme nessa tradição até hoje."
 ];

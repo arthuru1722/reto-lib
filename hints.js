@@ -27,7 +27,7 @@ const hints = [
   "Enquanto carrega, pense em todas as decisões erradas que te trouxeram até aqui.",
   "Se vc apertar na tela 10 vezes, o loading é pulado. JK",
   "Ler isso não emprega em nada na gameplay, então por que continuar?",
-  "Sim, esse jogo foi feito por alguem que não sabe diferenciar os porquês, desculpa",
+  "Esse jogo foi feito por alguem que não sabe diferenciar os porquês.",
   "Você é especial! Se valorize <3",
   "O que você ta esperando?",
   "Curiosidade: antigamente o R+ recebeu o nome de 'Escrita Esperta'... Ainda bem que mudamos de ideia",

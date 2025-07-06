@@ -6,6 +6,7 @@ const PTQ1 = {
       perguntas: [
         {
           id: 1,
+          enunciado: "Leia a frase a seguir e identifique a figura de linguagem utilizada.",
           pergunta: "Ele chorou um oceano de lágrimas após o término.",
           subCategoria: "hipérbole",
           dificuldade: "facil",
@@ -19,6 +20,7 @@ const PTQ1 = {
         },
         {
           id: 2,
+          enunciado: "Analise a frase abaixo e assinale a figura de linguagem presente.",
           pergunta: "A cidade dormia sob o manto da noite.",
           subCategoria: "personificacao",
           dificuldade: "normal",
@@ -32,6 +34,7 @@ const PTQ1 = {
         },
         {
           id: 3,
+          enunciado: "Abaixo há uma frase com uma oposição de ideias. Identifique a figura de linguagem.",
           pergunta: "Ele vive sorrindo com o coração em pedaços.",
           subCategoria: "antítese",
           dificuldade: "normal",
@@ -45,6 +48,7 @@ const PTQ1 = {
         },
         {
           id: 4,
+          enunciado: "Observe a substituição feita na frase abaixo e indique a figura de linguagem.",
           pergunta: "Ele leu Shakespeare durante o final de semana.",
           subCategoria: "metonimia",
           dificuldade: "facil",
@@ -58,6 +62,7 @@ const PTQ1 = {
         },
         {
           id: 5,
+          enunciado: "Leia a frase a seguir e identifique a figura de linguagem utilizada.",
           pergunta: "O tempo é um ladrão que rouba nossos momentos.",
           subCategoria: "metáfora",
           dificuldade: "facil",
@@ -77,6 +82,7 @@ const PTQ1 = {
       perguntas: [
         {
           id: 1,
+          enunciado: "Assinale a alternativa com a grafia correta da palavra.",
           pergunta: "Qual a forma correta?",
           subCategoria: "grafia",
           dificuldade: "facil",
@@ -90,6 +96,7 @@ const PTQ1 = {
         },
         {
           id: 2,
+          enunciado: "Complete a frase com a forma correta do verbo analisar.",
           pergunta: "Complete: Ele _____ com sabedoria.",
           subCategoria: "uso do z ou s",
           dificuldade: "facil",
@@ -103,6 +110,7 @@ const PTQ1 = {
         },
         {
           id: 3,
+          enunciado: "Observe as palavras abaixo e assinale a única que está escrita corretamente.",
           pergunta: "Qual dessas palavras está escrita corretamente?",
           subCategoria: "grafia",
           dificuldade: "facil",
@@ -116,6 +124,7 @@ const PTQ1 = {
         },
         {
           id: 4,
+          enunciado: "Complete a palavra com a letra correta, considerando a ortografia padrão.",
           pergunta: "Complete com 's' ou 'z': reali___ar.",
           subCategoria: "uso do z ou s",
           dificuldade: "facil",
@@ -129,6 +138,7 @@ const PTQ1 = {
         },
         {
           id: 5,
+          enunciado: "Entre as palavras abaixo, qual está escrita corretamente segundo a norma culta?",
           pergunta: "Qual forma está correta?",
           subCategoria: "uso de x ou ch",
           dificuldade: "facil",
